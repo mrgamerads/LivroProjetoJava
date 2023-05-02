@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2031168710",
+    "project_id": "livros-dd862",
+    "storage_bucket": "livros-dd862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2031168710:android:25ca2863eb76da1fd03bc7",
+        "android_client_info": {
+          "package_name": "com.example.livro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2031168710-5413ipujj900nnmpim40c1t6kg4erbqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCocD1gfLQid_A9KDVXUAEc6aFRljHZ7DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2031168710-5413ipujj900nnmpim40c1t6kg4erbqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
